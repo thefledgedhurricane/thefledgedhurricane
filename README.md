@@ -17,5 +17,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ihababdelbasset-annaki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="murataslan1" height="30" width="40" /></a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thefledgedhurricane&show_icons=true&locale=en" alt="thefledgedhurricane" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thefledgedhurricane&show_icons=true&locale=en&layout=compact" alt="thefledgedhurricane" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thefledgedhurricane&" alt="thefledgedhurricane" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thefledgedhurricane&show_icons=true&locale=en&layout=compact" alt="thefledgedhurricane" /></p>
