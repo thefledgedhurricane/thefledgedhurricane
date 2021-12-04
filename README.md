@@ -3,7 +3,7 @@
 ![Profile Views](https://gpvc.arturio.dev/thefledgedhurricane)
 ![image](https://img.shields.io/github/followers/thefledgedhurricane?label=follow&style=social)
 
-<h3 align="center">Ph.D Candidate 📈 | Ingénieur et enthousiaste en science des données et IA & 🧑💻| Chargé de cours en JavaScript ( React, Express, D3) depuis 2016 ☕ | Actuellement en train de créer ma Start-Up 🚀.</h3>
+<h3 align="center">Ph.D Candidate 📈 | Data Science & IA Eng. & enthusiast 🧑‍💻| JavaScript Lecturer ( React, Express, D3) since 2016 ☕ | Currently Establishing My Start-Up in Modern Well-being 🚀.</h3>
 
 - 🔭 I’m currently working on  : A Phd in Data Science Applied to Neuroscience ( Human Locomotion )
 
