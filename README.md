@@ -1,11 +1,9 @@
-<h1>Hi 👋, I'm Ihababdelbasset ANNAKI <svg viewBox="0 0 30 30" class="ico-fox">
-  <use xlink:href="#ico-fox"></use>
-</svg></h1>
+<h1>Hi 👋, I'm Ihababdelbasset ANNAKI </h1>
 
 ![Profile Views](https://gpvc.arturio.dev/thefledgedhurricane)
 ![image](https://img.shields.io/github/followers/thefledgedhurricane?label=follow&style=social)
 
-<h3 align="center">A Phd Researcher :rocket:& Data Scientist but it's always fun to play around with JS Libraries and Frameworks from Morocco :MA:</h3>
+<h3 align="center">Ph.D Candidate 📈 | Ingénieur et enthousiaste en science des données et IA & 🧑💻| Chargé de cours en JavaScript ( React, Express, D3) depuis 2016 ☕ | Actuellement en train de créer ma Start-Up 🚀.</h3>
 
 - 🔭 I’m currently working on  : A Phd in Data Science Applied to Neuroscience ( Human Locomotion )
 
