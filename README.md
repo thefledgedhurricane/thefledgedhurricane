@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Ihababdelbasset ANNAKI </h1>
 
-![Profile Views](https://gpvc.arturio.dev/thefledgedhurricane)
+![Profile Views](https://komarev.com/ghpvc/?username=thefledgedhurricane)
 ![image](https://img.shields.io/github/followers/thefledgedhurricane?label=follow&style=social)
 
 <h3 align="center">Ph.D Candidate 📈 | Data Science & IA Eng. & enthusiast 🧑‍💻| JavaScript Lecturer ( React, Express, D3) | Currently Establishing My Start-Up in Modern Well-being 🚀| A coffee addict  ☕ </h3>
