@@ -12,7 +12,6 @@
 
 - ⚡ Fun fact **I’m deeply passionate about mentoring future innovators in AI and collaborating across disciplines to deliver impactful solutions.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <h3 align="left">Connect with Me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/ihababdelbasset-annaki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-profile" height="30" width="40" /></a> </p> <h3 align="left">Visit My Website:</h3> <p><a href="https://thefledgedhurricane.github.io/fr/" target="blank">https://thefledgedhurricane.github.io/fr/</a></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thefledgedhurricane&show_icons=true&locale=en" alt="thefledgedhurricane" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thefledgedhurricane&show_icons=true&locale=en&layout=compact" alt="thefledgedhurricane" /></p> <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
